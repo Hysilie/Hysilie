@@ -1,6 +1,6 @@
 Hello, I’m Marion. A french learner. 👩🏻
 
-I am interested in web developpement. I am at the first level of my learning. I have for objective to discover some web language and get a specialization of one or two of temps with time. 
+I am interested in web developpement. I am at the first level of my learning. I have for objective to discover some web language and get a specialization of one or two of them with time. 
 
 I started to learn with much interest in february 2022. I am actually working in a totally other domain so I use my free time to learn step by step some web things.
 
