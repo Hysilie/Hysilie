@@ -4,7 +4,7 @@ I am interested in web developpement. I am at the first level of my learning. I 
 
 I started to learn with much interest in february 2022. I am actually working in a totally other domain so I use my free time to learn step by step some web things.
 
-💪🏻 I hope to start an intensive formation in early september 2022.
+💪🏻 I  start an intensive formation in early september 2022 with Wild Code School.
 
 
 
