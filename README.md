@@ -1,21 +1,19 @@
-Hello, I’m Marion. A french learner. 👩🏻
+<h1 align="center">Hi 👋, I'm Marion</h1>
+<h3 align="center">I started an intensive formation in early September 2022 at the Wild Code School.</h3>
 
-I am interested in web developpement. I am at the first level of my learning. I have for objective to discover some web language and get a specialization of one or two of them with time. 
+- 🚀 I'm looking for [study contract](https://www.linkedin.com/in/marionlalonde/)
 
-I started to learn with much interest in february 2022. I am actually working in a totally other domain so I use my free time to learn step by step some web things.
+- 👀 I'm currently looking for **review of some beginners code**
 
-💪🏻 I  start an intensive formation in early september 2022 with Wild Code School.
+- 🔭 I’m currently working on [Rijks'Art](https://github.com/Hysilie/Rijk-Art)
 
+- 🌱 I'm studying **React, Node.JS, Tailwind, Bootstrap**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hysilie_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hysilie_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marionlalonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marionlalonde" height="30" width="40" /></a>
+</p>
 
-                > 💻  I’m currently learning JS <
-
-- I followed OpenclassRooms free lessons for begginers (HTML, CSS, JS)
-- I followed From Scractch's videos on Youtube to practice
-- I'm starting the "JavaScript 30" to get better with vanilla JS
-
-
-> You'll find some of my pratices on my Github. If you want to look at it, I have to advert you : you'll find some mistakes. Because I try to practice every "concept" I learn.
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
