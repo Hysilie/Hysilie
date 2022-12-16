@@ -1,5 +1,6 @@
-<h1 align="center">Hi 😸, I'm Marion</h1>
-<h3 align="center">I started an intensive formation in early September 2022 at the Wild Code School.</h3>
+<h1 align="center">Hello , I am <span color='red'>Marion</span> 👩🏻‍💻</h1>
+<h3 align="center">I started an intensive formation in early September 2022 at the Wild Code School.
+I want to build accessible experiences that bring people together in the digital world, the physical world, or somewhere in between. </h3>
 
  🚀 I'm looking for [study contract](https://www.linkedin.com/in/marionlalonde/)
 
