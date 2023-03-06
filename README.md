@@ -1,14 +1,11 @@
 <h1 align="center">Hello , I am <span color='red'>Marion</span> 👩🏻‍💻</h1>
 <h3 align="center">I started an intensive formation in early September 2022 at the Wild Code School.
+ Now I'm in study contract with Sirup Lab and the Wild Code School.
 I want to build accessible experiences that bring people together in the digital world, the physical world, or somewhere in between. </h3>
 
- 🚀 I'm looking for [study contract](https://www.linkedin.com/in/marionlalonde/)
+ 👀 I'm currently looking for for [contacts](https://www.linkedin.com/in/marionlalonde/)
 
- 👀 I'm currently looking for **review of some beginners code**
-
- 🔭 I’m currently working on [Rijks'Art](https://github.com/Hysilie/Rijk-Art)
-
- 🌱 I'm studying **React, Node.JS, Tailwind, Bootstrap**
+ 🌱 I'm studying **React and React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
