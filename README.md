@@ -1,9 +1,7 @@
 <h1 align="center">Hello , I am <span color='red'>Marion</span> 👩🏻‍💻</h1>
-<h3 align="center">I started an intensive formation in early September 2022 at the Wild Code School.
+<p align="center">I started an intensive formation in early September 2022 at the Wild Code School.
  Now I'm in study contract with Sirup Lab and the Wild Code School.
-I want to build accessible experiences that bring people together in the digital world, the physical world, or somewhere in between. </h3>
-
- 👀 I'm currently looking for for [contacts](https://www.linkedin.com/in/marionlalonde/)
+I want to build accessible experiences that bring people together in the digital world, the physical world, or somewhere in between. </p>
 
  🌱 I'm studying **React and React Native**
 
