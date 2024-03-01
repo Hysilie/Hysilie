@@ -1,21 +1,26 @@
-<h1 align="center">Hello , I am <span color='red'>Marion</span> 👩🏻‍💻</h1>
-<p align="center">I started an intensive formation in early September 2022 at the Wild Code School.
- Now I'm in study contract with Sirup Lab and the Wild Code School.
-I want to build accessible experiences that bring people together in the digital world, the physical world, or somewhere in between. </p>
+ <h2>Hello , I am <b>Marion</b> <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' alt="Hello" width="40" height="40" /></h2>
 
- 🌱 I'm studying **React and React Native**
 
-<h3 align="left">Connect with me:</h3>
+ <h3>About me</h3>
+ <p>I'm a frontend enthusiast developer living in France 🇫🇷. I started to develop in 2022 and discovered a fantastic world where all subjects are a good reason to learn and challenge myself everyday. I like to think about design as well as development, it's all in the details!</p>
+ <p>
+As an animal lover the purpose of the I made Animigard <a href="https://www.youtube.com/watch?v=FfJHTR1AFbA&ab_channel=MarionLalonde" alt="Animigard" target="_blank">🔗</a> by myself next to my study contract was to present a plateform that allows user to share their animals profiles with their family to take care.</p>
+
+<p>🚀 I'm working as frontend developer at Sirup Lab<br/>📚 Currently studying React Native<br/>💭 I'm interesting about UI/UX, accessibility & organization<br />🎨 Enjoying creative crafts </p>
+
+<h3>My setup</h3>
+
+
+
 <p align="left">
-<a href="https://twitter.com/hysilie_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hysilie_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marionlalonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marionlalonde" height="30" width="40" /></a>
-</p>
+ 
+ [![iOS](https://img.shields.io/static/v1?label=&message=iOS&color=%23333&logo=apple&logoColor=%23%23181717)](https://)
+[![ VS Code](https://img.shields.io/static/v1?label=&message=+VS+Code&color=%23333&logo=visualstudiocode&logoColor=%23007ACC)](https://)
+[![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=%23333&logo=notion)](https://)
+[![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=%23333&logo=spotify&logoColor=%231DB954)](https://)
+[![Terminal](https://img.shields.io/static/v1?label=&message=Terminal&color=%23333&logo=powershell&logoColor=%23eee)](https://)
+[![Gitlab](https://img.shields.io/static/v1?label=&message=Gitlab&color=%23333&logo=gitlab&logoColor=%23FC6D26)](https://)
+[![Github](https://img.shields.io/static/v1?label=&message=Github&color=%23333&logo=github&logoColor=%23%23181717)](https://)
+[![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=%23333&logo=figma&logoColor=%23F24E1E)](https://)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</p>
