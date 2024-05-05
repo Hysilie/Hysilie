@@ -6,11 +6,17 @@
  <p>
 As an animal lover I made Animigard <a href="https://www.youtube.com/watch?v=FfJHTR1AFbA&ab_channel=MarionLalonde" alt="Animigard" target="_blank">🔗</a> by myself next to my study contract. The purpose was to present a plateform that allows user to share their animals profiles with their family to take care.</p>
 
-<p>🚀 I'm working as frontend developer at Sirup Lab<br/>📚 Currently studying React Native<br/>💭 I'm interesting about UI/UX, accessibility & organization<br />🎨 Enjoying creative crafts and 3D </p>
+<p>🚀 I'm working as frontend developer at Sirup Lab<br/>
+ 💻 I'm developing applications using React & React Native<br/>
+ 📚 Currently studying Angular<br/>💭 I'm interesting about UI/UX, accessibility & organization<br />🎨 Enjoying creative crafts and 3D </p>
 
+ <h3>Things I made</h3>
+<a href="https://ibb.co/FqNBSkJ"><img src="https://i.ibb.co/FqNBSkJ/Study1.png" alt="Study1" border="0"></a>
+<a href="https://ibb.co/7p5Hk3z"><img src="https://i.ibb.co/7p5Hk3z/Kitchen-Light.png" alt="Kitchen-Light" border="0"></a> 
+<a href="https://ibb.co/3crvVrn"><img src="https://i.ibb.co/3crvVrn/Cozy-Room-Light.png" alt="Cozy-Room-Light" border="0"></a>
 <h3>My setup</h3>
 
-
+ 
 
 <p align="left">
  
