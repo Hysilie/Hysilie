@@ -1,32 +1,30 @@
- <h2>Hello , I am <b>Marion</b> <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' alt="Hello" width="40" height="40" /></h2>
+<h2>Hello, I'm <b>Marion</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hello" width="40" height="40" /></h2>
 
+<h3>👩‍💻 About me</h3>
 
- <h3>About me</h3>
- <p>I'm a frontend enthusiast developer living in France 🇫🇷. I started to develop in 2022 and discovered a fantastic world where all subjects are a good reason to learn and challenge myself everyday. I like to think about design as well as development, it's all in the details!</p>
- <p>
-As an animal lover I made Animigard <a href="https://www.youtube.com/watch?v=FfJHTR1AFbA&ab_channel=MarionLalonde" alt="Animigard" target="_blank">🔗</a> by myself next to my study contract. The purpose was to present a plateform that allows user to share their animals profiles with their family to take care.</p>
+<p>I'm a front-end web & mobile developer from France 🇫🇷. I started coding in 2022 and since then, I've been diving into the world of UI, UX and clean, purposeful development. I enjoy building useful products, solving real problems, and thinking through both logic and design. It's all in the details!
+<br />I worked for 2 years at <b>Sirup Lab</b>, where I contributed to several web and mobile applications built with React and React Native. I'm now looking for a new adventure — open to full-time roles, ideally with impact or creative freedom.</p>
 
-<p>🚀 I'm working as frontend developer at Sirup Lab<br/>
- 💻 I'm developing applications using React & React Native<br/>
- 📚 Currently studying Angular<br/>💭 I'm interesting about UI/UX, accessibility & organization<br />🎨 Enjoying creative crafts and 3D </p>
+<p>🧡 I love animals and built <b>Animigard</b> <a href="https://www.youtube.com/watch?v=FfJHTR1AFbA&ab_channel=MarionLalonde" target="_blank">🔗</a> on my own during my certification. It’s a fullstack mobile app that helps families co-manage their pets’ health and daily care through shared profiles and records.</p>
+<p>🧘 I also created <b>Antidepressant</b>, a personal pocket app developed with Electron. It blends journaling, music, and to-do list in a compact format. I use it as a lab for experimenting with Tiptap, local caching, audio features, and a thoughtful use of AI — not as a shortcut, but as a way to challenge and refine my decisions.</p>
 
- <h3>Things I made</h3>
-<a href="https://ibb.co/FqNBSkJ"><img src="https://i.ibb.co/FqNBSkJ/Study1.png" alt="Study1" border="0"></a>
-<a href="https://ibb.co/7p5Hk3z"><img src="https://i.ibb.co/7p5Hk3z/Kitchen-Light.png" alt="Kitchen-Light" border="0"></a> 
-<a href="https://ibb.co/3crvVrn"><img src="https://i.ibb.co/3crvVrn/Cozy-Room-Light.png" alt="Cozy-Room-Light" border="0"></a>
-<h3>My setup</h3>
+<p>🌱 I enjoy learning about UI/UX, accessibility, and software organization. I’m also curious about 3D and creative crafts in my free time.</p>
 
- 
+<h3>🛠️ Tech & Tools</h3>
 
-<p align="left">
- 
- [![iOS](https://img.shields.io/static/v1?label=&message=iOS&color=%23333&logo=apple&logoColor=%23%23181717)](https://)
-[![ VS Code](https://img.shields.io/static/v1?label=&message=+VS+Code&color=%23333&logo=visualstudiocode&logoColor=%23007ACC)](https://)
-[![Notion](https://img.shields.io/static/v1?label=&message=Notion&color=%23333&logo=notion)](https://)
-[![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=%23333&logo=spotify&logoColor=%231DB954)](https://)
-[![Terminal](https://img.shields.io/static/v1?label=&message=Terminal&color=%23333&logo=powershell&logoColor=%23eee)](https://)
-[![Gitlab](https://img.shields.io/static/v1?label=&message=Gitlab&color=%23333&logo=gitlab&logoColor=%23FC6D26)](https://)
-[![Github](https://img.shields.io/static/v1?label=&message=Github&color=%23333&logo=github&logoColor=%23%23181717)](https://)
-[![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=%23333&logo=figma&logoColor=%23F24E1E)](https://)
-
+<p>
+React | React Native | Firebase | Node.js | Express | PostgreSQL | Docker | Electron | Jest | SQL<br/>
+Figma | FlutterFlow | Webflow | GitLab | Notion
 </p>
+
+<h3>📚 Currently exploring</h3>
+<p>
+PHP |Advanced Electron integrations | Back-end architecture & clean APIs
+</p>
+
+<h3>🎨 Some things I made</h3>
+<a href="https://ibb.co/FqNBSkJ"><img src="https://i.ibb.co/FqNBSkJ/Study1.png" alt="Study1" width="200" /></a>
+<a href="https://ibb.co/7p5Hk3z"><img src="https://i.ibb.co/7p5Hk3z/Kitchen-Light.png" alt="Kitchen-Light" width="200" /></a> 
+<a href="https://ibb.co/3crvVrn"><img src="https://i.ibb.co/3crvVrn/Cozy-Room-Light.png" alt="Cozy-Room-Light" width="200" /></a>
+
+
